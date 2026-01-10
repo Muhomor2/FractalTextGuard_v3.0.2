@@ -1,0 +1,21 @@
+{
+  "version": "3.0",
+  "weights": {
+    "H": 1.0,
+    "D_box": 0.4,
+    "repeat_rate": 0.8,
+    "compress_ratio": 0.7,
+    "p_delta": 0.3
+  },
+  "ranges": {
+    "H": [0.48, 0.85],
+    "D_box": [0.8, 1.8],
+    "repeat_rate": [0.0, 0.35],
+    "compress_ratio": [0.25, 0.90]
+  },
+  "thresholds": {
+    "warning": 0.45,
+    "critical": 0.72
+  },
+  "uncertain_margin": 0.05
+}

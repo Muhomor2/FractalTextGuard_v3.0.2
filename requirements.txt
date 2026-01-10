@@ -1,0 +1,8 @@
+# No external dependencies required!
+# This package uses Python standard library only.
+# 
+# Python >= 3.8 required
+#
+# Optional for development:
+# pytest
+# mypy
