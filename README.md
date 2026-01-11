@@ -5,7 +5,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-Non--Commercial-orange.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![No Dependencies](https://img.shields.io/badge/dependencies-none-green.svg)](requirements.txt)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18202981.svg)](https://doi.org/10.5281/zenodo.18202981)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18207859.svg)](https://doi.org/10.5281/zenodo.18207859)
 
 ## Overview
 
