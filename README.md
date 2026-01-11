@@ -22,7 +22,14 @@ FractalTextGuard analyzes text structure using **Detrended Fluctuation Analysis 
 - Works equally well on all text types
 - Replaces human judgment
 
-> ⚠️ **Important**: This is a statistical analysis tool. Results should be interpreted as one signal among many, not as definitive proof.
+> ⚠️ ## ⚠️ Important Warnings & Limitations
+
+FractalTextGuard is an **experimental research tool**. It is **not** a standalone AI-text detector for high-stakes decisions
+(e.g., academic misconduct accusations, legal/disciplinary actions).
+
+- **Short texts are unreliable**: DFA/Hurst-based metrics are unstable on small samples. Treat results as *low confidence* unless the text is sufficiently long.
+- **Human writing variation matters**: non-native speakers and some neurodivergent/very formal writing styles can look more repetitive/structured and may increase false positives.
+- This method is best viewed as a **signal** (fractal/LRD structure), not proof. Always combine with other evidence and human review.
 
 ---
 
