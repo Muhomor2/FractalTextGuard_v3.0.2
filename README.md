@@ -151,7 +151,7 @@ See [LICENSE](LICENSE) for full terms.
   year = {2026},
   publisher = {Zenodo},
   version = {3.0.2},
-  doi = {10.5281/zenodo.18202981},
+  doi = {10.5281/zenodo.18207859},
   url = {https://github.com/IgorChechelnitsky/FractalTextGuard}
 }
 ```
