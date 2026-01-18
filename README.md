@@ -36,7 +36,7 @@ FractalTextGuard is an **experimental research tool**. It is **not** a standalon
 ## Installation
 
 ```bash
-git clone https://github.com/IgorChechelnitsky/FractalTextGuard.git
+git clone https://github.com/muhomor2/FractalTextGuard.git
 cd FractalTextGuard
 # Python 3.8+ required. No external dependencies.
 ```
